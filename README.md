@@ -7,12 +7,12 @@ Software Engineer passionate about robust backend systems, clean architecture, a
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gamberooh&theme=nightowl" width="80%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gamberooh&theme=onedark" width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gamberooh&theme=nightowl&hide_border=true" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gamberooh&theme=nightowl&exclude=markdown,mathematica,jsonl,lean" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=gamberooh&theme=onedark&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gamberooh&theme=onedark&exclude=markdown,mathematica,jsonl,lean" width="48%" />
 </p>
 
 ---
